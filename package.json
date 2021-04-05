@@ -1,6 +1,6 @@
 {
-  "name": "passport-oauth1",
-  "version": "1.1.0",
+  "name": "passport-schoology-oauth",
+  "version": "1.0.3",
   "description": "OAuth 1.0 authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -12,16 +12,15 @@
     "oauth"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Saumya Singhal",
+    "email": "saumyasmathtutoring@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-oauth1.git"
+    "url": "git://github.com/saumyasinghal747/passport-schoology-oauth.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-oauth1/issues"
+    "url": "http://github.com/jaredhanson/passport-schoology-oauth/issues"
   },
   "license": "MIT",
   "licenses": [
