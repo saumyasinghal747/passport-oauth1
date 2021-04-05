@@ -20,7 +20,7 @@ integrated into any application or framework that supports
 
 ### Obtain API Key
 
-This can be done at [https://<your school>.schoology.com/api]()
+This can be done at https://<your school>.schoology.com/api
 
 #### Configure Strategy
 
